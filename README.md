@@ -20,7 +20,7 @@ Quiz App is a web application that allows users to log in, complete quizzes, and
 
 - User login system
 - Displays total number of questions and number of questions answered
-- Built-in timer with customizable quiz duration
+- Timer
 - One question per page — automatically moves to the next question after selecting an answer
 - Auto-submit and show results (correct, wrong, and answered questions) when the timer runs out
 - Resume mechanism using localStorage to save progress if the browser is closed
