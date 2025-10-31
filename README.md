@@ -6,32 +6,28 @@ Quiz App is a web application that allows users to log in, complete quizzes, and
 
 ## 📑 Table of Contents
 
-- [🚀 Feature](#-feature)
+- [🚀 Features](#-features)
 - [🎬 Demo](#-demo)
 - [📁 Folder Structure](#-folder-structure)
 - [🛠️ Instalasi \& Konfigurasi](#️-instalasi--konfigurasi)
 - [🧰 Tech Stack / Dependencies](#-tech-stack--dependencies)
 - [🛎️ Tools](#️-tools)
-- [👨‍💻 Pengembang](#-pengembang)
+- [👨‍💻 Developer](#-developer)
 
 ---
 
-## 🚀 Feature
+## 🚀 Features
 
-- Login/Register User
-- Kelola User (update profile user)
-- Post barang hilang atau barang ditemukan
-- Lihat, cari, filter barang hilang atau barang ditemukan
-- Lihat informasi detail dari item yang telah dipost
-- Kelola item yang telah dipost (update/delete item)
-- Berikan komentar atau informasi pada item yang telah dipost
-- Raih point dan achievement dari post item atau komentar
-- Tampilan kekinian dan responsive
-- Error handling, jika ada form yang belum terisi atau ada kegagalan request
+- User login system
+- Displays total number of questions and number of questions answered
+- Built-in timer with customizable quiz duration
+- One question per page — automatically moves to the next question after selecting an answer
+- Auto-submit and show results (correct, wrong, and answered questions) when the timer runs out
+- Resume mechanism using localStorage to save progress if the browser is closed
 
 ## 🎬 Demo
 
-**quiz-three-ashen.vercel.app**
+[quiz-three-ashen.vercel.app](https://quiz-three-ashen.vercel.app)
 
 ## 📁 Folder Structure
 
@@ -47,12 +43,12 @@ Quiz App is a web application that allows users to log in, complete quizzes, and
 
 ```
 
-## 🛠️ Instalasi & Konfigurasi
+## 🛠️ Installation & Configuration
 
 <details>
-<summary>Instalasi & Konfigurasi (click me)</summary>
+<summary>Installation & Configuration (click me)</summary>
 
-### 1. Clone repository ini
+### 1. Clone this repository
 
 ```
 git clone https://github.com/husenmalik7/quiz.git
@@ -66,7 +62,7 @@ npm install
 
 ```
 
-### 3. Jalankan server via start atau development
+### 3. Run the server via start or development mode
 
 ```
 npm run start
@@ -92,6 +88,6 @@ npm run dev
 - **VSCode** the code editor
 - **Google Chrome** as the development platform and for visually monitoring results
 
-## 👨‍💻 Pengembang
+## 👨‍💻 Developer
 
 [Husen Malik](https://github.com/husenmalik7)
