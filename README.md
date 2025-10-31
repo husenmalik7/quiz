@@ -9,7 +9,7 @@ Quiz App is a web application that allows users to log in, complete quizzes, and
 - [🚀 Features](#-features)
 - [🎬 Demo](#-demo)
 - [📁 Folder Structure](#-folder-structure)
-- [🛠️ Instalasi \& Konfigurasi](#️-instalasi--konfigurasi)
+- [🛠️ Installation \& Configuration](#️-installation--configuration)
 - [🧰 Tech Stack / Dependencies](#-tech-stack--dependencies)
 - [🛎️ Tools](#️-tools)
 - [👨‍💻 Developer](#-developer)
@@ -55,7 +55,7 @@ git clone https://github.com/husenmalik7/quiz.git
 
 ```
 
-### 2. Install repository
+### 2. Install dependencies
 
 ```
 npm install
